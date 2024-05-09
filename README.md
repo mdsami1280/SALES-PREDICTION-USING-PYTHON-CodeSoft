@@ -32,6 +32,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact:
 
-For any inquiries or feedback, please contact [Your Name] at [your.email@example.com].
+For any inquiries or feedback, please contact Md Sami at smd930617@gmail.com
 
 Happy analyzing!
